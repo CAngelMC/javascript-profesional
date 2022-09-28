@@ -1,0 +1,13 @@
+{
+  "name": "@angel_cast/platzimediaplayer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/MediaPlayer.js",
+  "scripts": {
+    "build": "tsc src/**/*.ts src/plugins/*.ts --outDir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
